@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+# [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)
 
-You can use the [editor on GitHub](https://github.com/yshshadow/yshshadow.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[![Gem Version](https://img.shields.io/gem/v/jekyll-text-theme.svg)](https://github.com/kitian616/jekyll-TeXt-theme/releases)
+[![license](https://img.shields.io/github/license/kitian616/jekyll-TeXt-theme.svg)](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/LICENSE)
+[![Travis](https://img.shields.io/travis/kitian616/jekyll-TeXt-theme.svg)](https://travis-ci.org/kitian616/jekyll-TeXt-theme)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.png)
 
-### Markdown
+![TeXt Theme Details](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-details.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+TeXt is a succinct theme for blogging. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
 
-```markdown
-Syntax highlighted code block
+[中文文档](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)
 
-# Header 1
-## Header 2
-### Header 3
+## Features
 
-- Bulleted
-- List
+- Responsive
+- Paginate ([jekyll-paginate](https://github.com/jekyll/jekyll-paginate))
+- Table of contents
+- Tag
+- Search
+- Page views ([LeanCloud](https://leancloud.cn/))
+- Emoji ([Jemoji](https://github.com/jekyll/jemoji))
+- Comment ([Disqus](https://disqus.com/))
+- Google Analytics
+- Contact information (Email, Facebook, Twitter, Linkedin, Weibo, Zhihu, etc)
+- Semantic HTML
+- Icon automation tool ([gulp-svg2png](https://www.npmjs.com/package/gulp-svg2png), [gulp-to-ico](https://www.npmjs.com/package/gulp-to-ico))
+- Color Theme
+- Mathematical formula ([MathJax](https://www.mathjax.org/))
+- Flowchart, Sequence diagram, Gantt diagram ([mermaid](https://mermaidjs.github.io/))
+- Line Chart, Bar Chart, Radar Chart, Pie Chart ([chartjs](http://www.chartjs.org/))
+- RSS（[jekyll-feed](https://github.com/jekyll/jekyll-feed))
+- Multi-language support(English | Simplified Chinese | Traditional Chinese)
 
-1. Numbered
-2. List
+## Color Themes
 
-**Bold** and _Italic_ and `Code` text
+You can choose these 6 built-in color themes below:
 
-[Link](url) and ![Image](src)
-```
+| `default` | `dark` | `forest` |
+| --- |  --- | --- |
+| ![default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/colors_default.png) | ![dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/colors_dark.png) | ![forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/colors_forest.png) |
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+| `ocean` | `chocolate` | `orange` |
+| --- |  --- | --- |
+| ![ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/colors_ocean.png) | ![chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/colors_chocolate.png) | ![orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/colors_orange.png) |
 
-### Jekyll Themes
+## Documentation
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yshshadow/yshshadow.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Start
 
-### Support or Contact
+- [Quick Start](https://tianqi.name/jekyll-TeXt-theme/docs/en/quick-start)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Customization
+
+- [Configuration](https://tianqi.name/jekyll-TeXt-theme/docs/en/configuration)
+- [Navigation](https://tianqi.name/jekyll-TeXt-theme/docs/en/navigation)
+- [Layouts](https://tianqi.name/jekyll-TeXt-theme/docs/en/layouts)
+
+### Content
+
+- [Writing Posts](https://tianqi.name/jekyll-TeXt-theme/docs/en/writing-posts)
+- [Markdown Enhancements](https://tianqi.name/jekyll-TeXt-theme/docs/en/markdown-enhancements)
+- [Additional styles](https://tianqi.name/jekyll-TeXt-theme/docs/en/additional-styles)
+
+## Demo Pages
+
+| Name | Description |
+| --- | --- |
+| [Home](https://tianqi.name/jekyll-TeXt-theme/) | Home page with posts list |
+| [Archive](https://tianqi.name/jekyll-TeXt-theme/archive.html) | You can filter tags and search here |
+
+## License
+
+TeXt Theme is [MIT licensed](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/LICENSE).
